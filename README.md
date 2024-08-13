@@ -1,2 +1,2 @@
 # AI-Text-Summarizer-App-Starter-Template
- I joined Postman's Student Program and elevate my software development and API knowledge .
+I've joined Postman's Student Program to enhance my software development and API skills, which will support me in my career.
